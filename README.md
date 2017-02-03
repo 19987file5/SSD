@@ -20,14 +20,14 @@ First Day of Hijri year =="عام هجري سعيد "
 > TO triggering the hijri date I'm using Al adhan REST UP api
 
 
-Check out this [demo page](http://shakir-abdo.github.io/SSD/ "Demo")
+Check out this [demo page](http://shakir-abdo.github.io/SSD/demo.html)
 
 ## Installation
 
 Dependency: [jQuery](http://jquery.com).
 
 Download  ssd.min.js and ssd.css :
-- from [Github](https://github.com/shakir-abdo/SSD)
+- from [Github](https://shakir-abdo.github.io/SSD/ssd.zip)
 
 Usage
 -----

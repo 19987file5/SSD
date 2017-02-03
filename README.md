@@ -61,14 +61,3 @@ you must include the ssd.css file in your web page to styling your ribbon
 `<link rel="stylesheet" href="ssd.css" type="text/css" />`
 
 By **Shakir Abdo**
-
-`ssd('' , {events: 'ramadan aidF aidA' , position:'right' , color: '#ff00ff' })`
-### NOTE!!
-You must add a empty '' in a text argument , even if you didn't use a custom text .
-Example: 
-`ssd('' , {//your options here});`
-
-you must include the ssd.css file in your web page to styling your ribbon
-`<link rel="stylesheet" href="ssd.css" type="text/css" />`
-
-By **Shakir Abdo**

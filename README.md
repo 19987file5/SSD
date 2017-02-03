@@ -39,6 +39,7 @@ To make a normal ribbon without events  , use `ssd(text, options)`. Examples :
 
 To displays he ribbon in Event's days , simply use `events` option .
 > the event's list:
+
 - `ramadan` for Ramadan. 
 - `aidF` for aid al fetr. 
 - `aidA` for aid al audheya. 
@@ -46,6 +47,21 @@ To displays he ribbon in Event's days , simply use `events` option .
 - `hijriE` for hijri new year.
 - `all` for all events above.  
 Example:
+`ssd('' , {events: 'ramadan aidF aidA' , position:'right' , color: '#ff00ff' })`
+
+
+### NOTE!!
+
+You must add a empty ' ' in a text argument , even if you didn't use a custom text .
+Example: 
+
+`ssd('' , {//your options here});`
+
+you must include the ssd.css file in your web page to styling your ribbon
+`<link rel="stylesheet" href="ssd.css" type="text/css" />`
+
+By **Shakir Abdo**
+
 `ssd('' , {events: 'ramadan aidF aidA' , position:'right' , color: '#ff00ff' })`
 ### NOTE!!
 You must add a empty '' in a text argument , even if you didn't use a custom text .

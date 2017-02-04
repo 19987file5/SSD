@@ -32,9 +32,10 @@ Download  ssd.min.js and ssd.css :
 Or simply use github cloud, add this two line's to <head> tag in your HTML page:
  Example: 
  
-( <link rel="stylesheet" href="http://shakir-abdo.github.io/SSD/ssd.css" type="text/css" />
- <script src="http://shakir-abdo.github.io/SSD/ssd.min.js" type="text/javascript" /> )
 
+ `<link rel="stylesheet" href="http://shakir-abdo.github.io/SSD/ssd.css" type="text/css" />
+ <script src="http://shakir-abdo.github.io/SSD/ssd.min.js" type="text/javascript" />`
+ 
 Usage
 -----
 

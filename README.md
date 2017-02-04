@@ -58,7 +58,7 @@ Example:
 You must add a empty ' ' in a text argument , even if you didn't use a custom text .
   Example: 
 
-   ssd('' , {//your options here});
+    ssd(' ' , {//your options here});
 
 you must include the ssd.css file in your web page to styling your ribbon. 
 

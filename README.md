@@ -34,7 +34,7 @@ Or simply use github cloud, add this two line's to <head> tag in your HTML page:
  
 
  `<link rel="stylesheet" href="http://shakir-abdo.github.io/SSD/ssd.css" type="text/css" />
- <script src="http://shakir-abdo.github.io/SSD/ssd.min.js" type="text/javascript" />`
+ <script src="http://shakir-abdo.github.io/SSD/ssd.min.js" type="text/javascript" /></script>`
  
 Usage
 -----
